@@ -78,6 +78,6 @@ footer{
   color: #CCC;
 }
 
-#header a:visited{
-  text-decoration: none
+#header a:hover{
+  text-decoration: overline;
 }
