@@ -20,6 +20,7 @@ header h3 {
   display: inline;
   float: left;
   text-decoration: none;
+  padding: 0
 }
 
 nav ul {
